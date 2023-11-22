@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9647c605af73a3d4c8c92dc07374d631, type: 3}
+  m_Name: Bow
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: -2036099637, guid: 1a567e0102a45f84082553bbcb1176fb, type: 3}
+  _cooldown: 1
+  _projectile: {fileID: 11400000, guid: 66e2cc0f6dbc6894a90780e109c6738b, type: 2}

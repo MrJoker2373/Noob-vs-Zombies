@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 161ef8e9cc0f76d48a71d60ba276776e, type: 3}
+  m_Name: Skeleton Arrow
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: -1866486504, guid: a1707b63796c612428cc3851357fc307, type: 3}
+  _damage: 0.5
+  _knockback: 150
+  _stun: 0.25
+  _lifeTime: 2
+  _flightTime: 4
+  _speed: 9
+  _isPenetrating: 0
