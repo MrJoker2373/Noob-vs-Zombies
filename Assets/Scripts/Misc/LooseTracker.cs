@@ -21,7 +21,6 @@ namespace Game
             {
                 _fade.FadeIn();
                 _isOpened = true;
-                AdShower.ShowAd();
             }
         }
     }

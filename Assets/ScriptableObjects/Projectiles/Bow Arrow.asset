@@ -18,5 +18,5 @@ MonoBehaviour:
   _stun: 0.5
   _lifeTime: 2
   _flightTime: 2
-  _speed: 7
+  _speed: 9
   _isPenetrating: 0

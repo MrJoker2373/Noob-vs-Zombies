@@ -29,7 +29,6 @@ namespace Game
                 _fade.FadeIn();
                 _input.DisableInput();
                 _isOpened = true;
-                AdShower.ShowAd();
             }
         }
     }

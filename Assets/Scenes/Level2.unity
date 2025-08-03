@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -6215,10 +6214,10 @@ MonoBehaviour:
   - {fileID: 67247715}
   - {fileID: 303992825}
   - {fileID: 1748875046}
-  _maxHealth: 5
-  _minHealth: 3
+  _maxHealth: 2
+  _minHealth: 1
   _delay: 12
-  _maxEnemyCount: 9
+  _maxEnemyCount: 3
 --- !u!4 &623084539 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7442610382697912645, guid: 8c47a1e69f1743840b6267a8fefc3bdb, type: 3}
@@ -6920,10 +6919,10 @@ MonoBehaviour:
   - {fileID: 43723993}
   - {fileID: 1351444235}
   - {fileID: 1147703532}
-  _maxHealth: 3
+  _maxHealth: 2
   _minHealth: 1
-  _delay: 7
-  _maxEnemyCount: 10
+  _delay: 6
+  _maxEnemyCount: 4
 --- !u!1 &1603992784
 GameObject:
   m_ObjectHideFlags: 0

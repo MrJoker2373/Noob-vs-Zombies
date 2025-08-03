@@ -100,6 +100,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -340035667, guid: 61a3efc0b155e2842a84c09d446de1ee, type: 3}
+    - target: {fileID: 6696896758747118370, guid: de7a957e6fc62d049b2b902c5c3786c1, type: 3}
+      propertyPath: _extraHealth
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7300398662890214493, guid: de7a957e6fc62d049b2b902c5c3786c1, type: 3}
       propertyPath: m_Name
       value: Creeper
